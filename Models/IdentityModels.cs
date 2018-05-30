@@ -29,5 +29,7 @@ namespace mcLittLe.Models
         {
             return new ApplicationDbContext();
         }
+
+        public System.Data.Entity.DbSet<mcLittLe.Models.product> products { get; set; }
     }
 }
