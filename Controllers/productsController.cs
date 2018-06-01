@@ -47,7 +47,7 @@ namespace mcLittLe.Controllers
             productlist = (from rows in ds.Tables[0].AsEnumerable()
                             select new product
                             {
-                                productId = Convert.ToInt16(rows[0].ToString()),
+                                productId = Convert.ToInt16(rows[0]),
                                 EAN = Convert.ToInt64(rows[1]),
                                 title = (rows[2].ToString()),
                                 brand = (rows[3].ToString()),

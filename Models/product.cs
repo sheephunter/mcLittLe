@@ -2,9 +2,12 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using System.Xml.Serialization;
 
 namespace mcLittLe.Models
 {
+    [Serializable]
+    [XmlRoot("product"), XmlType("product")]
     public class product
     {
         public int productId { get; set; }
