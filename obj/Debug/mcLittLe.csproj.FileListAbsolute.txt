@@ -127,3 +127,4 @@ D:\Program Files\mcLittLe\mcLittLe\mcLittLe\bin\System.Xml.ReaderWriter.dll
 D:\Program Files\mcLittLe\mcLittLe\mcLittLe\bin\System.Net.Http.Formatting.xml
 D:\Program Files\mcLittLe\mcLittLe\mcLittLe\bin\System.Web.Http.xml
 D:\Program Files\mcLittLe\mcLittLe\mcLittLe\bin\System.Web.Http.WebHost.xml
+D:\Program Files\mcLittLe\mcLittLe\mcLittLe\obj\Debug\mcLittLe.Migrations.roles.resources
